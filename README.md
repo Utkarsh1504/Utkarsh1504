@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Utkarsh!!
 
-<!--
-**Utkarsh1504/Utkarsh1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student, explorer and quick learner!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...my skills.
+- 🌱 I’m currently learning ...C++ and Web Dev
+- 👯 2021 Goals: Contribute more to Open Source projects
+- 🤔 I’m looking for help with ...CSS & JAVASCRIPT.
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/feed/)
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact:I am cricket lover and tech·no·phile!!
 -->
