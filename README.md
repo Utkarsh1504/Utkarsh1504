@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh150&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh1504" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh1504" alt="utkarsh1504" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@utkarshmishra56" target="blank"><img src="https://img.shields.io/twitter/follow/@utkarshmishra56?logo=twitter&style=for-the-badge" alt="@utkarshmishra56" /></a> </p>
