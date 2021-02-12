@@ -9,7 +9,7 @@
 - 👯 2021 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with ...CSS & JAVASCRIPT.
 - 💬 Ask me about ...Anything.
-- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/utkarsh-mishra-052175200/)
+- 📫 How to reach me: ...[linkedin](https://www.linkedin.com/in/umishra-1504/)
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I am cricket lover and tech·no·phile!
 -->
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/utkarsh15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="utkarsh15" height="30" width="40" /></a>
 <a href="https://twitter.com/@utkarshmishra56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@utkarshmishra56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-mishra-052175200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utkarsh-mishra-052175200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umishra-1504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="umishra-1504" height="30" width="40" /></a>
 <a href="https://instagram.com/umishra_1504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="umishra_1504" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utkarshmishra731" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="utkarshmishra731" height="30" width="40" /></a>
 </p>
