@@ -8,7 +8,7 @@ Skills: C++/JS/CSS/HTML/Python
 - 🔭 I’m currently working on My technical Skills 
 - 🌱 I’m currently learning Web dev and C++ 
 - 🤔 I’m looking for help with JavaScript and C++ 
--👯 2021 Goals: Contribute more to Open Source projects
+- 👯 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/umishra-1504/) 
 - 😄 Pronouns: He/Him 
