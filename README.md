@@ -27,7 +27,7 @@ Skills: C++/JS/CSS/HTML/Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Utkarsh1504)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh1504)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=highcontrast" alt="umishra" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/Utkarsh1504)  
 
