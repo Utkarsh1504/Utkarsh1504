@@ -18,25 +18,142 @@
 <br>
 - ⚡ Fun fact: Technophile
 </p>
-<p align="center">
-  <code>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'><a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a></code>
-  
- <code>
-<img href="https://twitter.com/@Utkarshmishra56" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
-  <a href="https://twitter.com/@Utkarshmishra56" title="reach">Twitter</a></code>
-  <code>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'><a href="https://codepen.io/utkarsh15" title="reach">Codepen</a></code> 
-    <code>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'><a href="https://stackoverflow.com/users/15176508" title="reach">StackOverFlow</a></code>
-  </p>
+<table align="center">
+<tr>
+  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></code></td>
+  <td align="center"><code><img href="https://twitter.com/@Utkarshmishra56" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></code></td>
+  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'></code></td>
+  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></code><td>
+   </tr>
+  <tr>
+  <td align="center"><code><a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a></code></td>
+  <td align="center"><code><a href="https://twitter.com/@Utkarshmishra56" title="reach">Twitter</a></code></td>
+  <td align="center"><code><a href="https://codepen.io/utkarsh15" title="reach">Codepen</a></code> <code></td>
+  <td align="center"><code><a href="https://stackoverflow.com/users/15176508" title="reach">StackOverFlow</a></code></td>
+  </tr>
+  </table>
+
+  <br>
+ 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Favorite techs 🔥</h2>
 
+  <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/Utkarsh1504/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center"  width="96">
+      <a href="https://cloud.google.com">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="gcp" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#utkarsh1504-tech" >
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="opencv" />
+      </a>
+      <br>OpenCV
+    </td>
+  </tr>
+</table> 
 
-<p align="center"> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
 
 <hr>
 
@@ -63,7 +180,7 @@
 
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/Utkarsh1504)  
+ 
 
 
 
