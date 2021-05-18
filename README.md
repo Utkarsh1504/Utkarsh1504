@@ -177,6 +177,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+![Profile views](https://gpvc.arturio.dev/Utkarsh1504)  
 
 <hr>
 
