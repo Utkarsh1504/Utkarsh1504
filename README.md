@@ -161,18 +161,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/utkarsh1504/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1504&theme=react&border=61dafb&hide_border=true" alt="umishra" />
-    </a>
-    <a href="https://github.com/utkarsh1504/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/utkarsh1504/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&hide=c%23,powershell,java&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
