@@ -72,7 +72,7 @@
     </td>
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://reactjs.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
