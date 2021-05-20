@@ -1,10 +1,13 @@
-<hr>
+ <hr>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=operator+mono&color=013FFF&lines=Hi,+There!+👋;I'm+Utkarsh+Mishra....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <hr>
+
+<h1 align="center" style="color:#663399">About Me!</h1>
+
 <p align="center">
 - 🌱 I’m currently learning Web development
 <br>
