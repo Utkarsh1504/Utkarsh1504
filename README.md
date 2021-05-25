@@ -62,13 +62,13 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://www.typescriptlang.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
