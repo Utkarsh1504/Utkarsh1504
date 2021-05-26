@@ -87,13 +87,13 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://tailwindcss.com/">
         <img src="https://raw.githubusercontent.com/Utkarsh1504/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://git-scm.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
@@ -101,13 +101,13 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#utkarsh1504-tech" >
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://ubuntu.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
