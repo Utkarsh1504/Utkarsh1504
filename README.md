@@ -56,7 +56,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -81,7 +81,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://redux.js.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="redux" />
       </a>
       <br>Redux
@@ -113,13 +113,13 @@
       <br>Ubuntu
     </td>
     <td align="center"  width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
       </a>
       <br>CSS
     </td>
     <td align="center"  width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
       </a>
       <br>Linux
