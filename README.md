@@ -44,13 +44,13 @@
   <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
