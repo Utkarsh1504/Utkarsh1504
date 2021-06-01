@@ -125,7 +125,7 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech">
+      <a href="https://docs.microsoft.com/en-us/powershell/">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
