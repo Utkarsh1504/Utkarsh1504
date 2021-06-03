@@ -137,19 +137,19 @@
       <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://www.gnu.org/software/bash/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://www.figma.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <a href="#utkarsh1504-tech" >
+      <a href="https://opencv.org/" >
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="opencv" />
       </a>
       <br>OpenCV
