@@ -176,7 +176,7 @@
 </p>
 <hr>
 <div align="center">
-   <h2>Watch my contribution graph get eaten by the snake 🐍</h1>
+   <h2>Watch my contributions get eaten by the snake 🐍</h1>
    <img src="https://github.com/Utkarsh1504/Utkarsh1504/blob/output/github-contribution-grid-snake.svg" alt="snake-gifs" />
 </div>
 
