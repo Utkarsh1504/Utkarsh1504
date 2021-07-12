@@ -174,12 +174,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
-<hr>
-<div align="center">
-   <h2>Watch my contributions get eaten by the snake 🐍</h1>
-   <img src="https://github.com/Utkarsh1504/Utkarsh1504/blob/output/github-contribution-grid-snake.svg" alt="snake-gifs" />
-</div>
-
  
 
 
