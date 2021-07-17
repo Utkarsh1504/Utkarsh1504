@@ -39,7 +39,7 @@
   <br>
  
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Favorite techs 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
 
   <table align="center">
   <tr>
