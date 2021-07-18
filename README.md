@@ -30,7 +30,7 @@
    </tr>
   <tr>
   <td align="center"><code><a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@Utkarshmishra56" title="reach">Twitter</a></code></td>
+  <td align="center"><code><a href="https://twitter.com/@umishra1504" title="reach">Twitter</a></code></td>
   <td align="center"><code><a href="https://codepen.io/utkarsh15" title="reach">Codepen</a></code> <code></td>
   <td align="center"><code><a href="https://stackoverflow.com/users/15176508" title="reach">StackOverFlow</a></code></td>
   </tr>
