@@ -9,9 +9,9 @@
 <h1 align="center" style="color:#663399">About Me!</h1>
 
 <p align="center">
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning a lot of things
 <br>
-- 🔭 I’m currently working on My technical Skills 
+- 🔭 I’m currently working on my technical skills
 <br>
 - 👯 2021 Goals: Contribute more to Open Source projects
 <br>
