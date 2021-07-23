@@ -1,27 +1,22 @@
- <hr>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=operator+mono&color=013FFF&lines=Hi,+There!+👋;I'm+Utkarsh....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<hr>
 
-<h1 align="center" style="color:#663399">About Me!</h1>
+## About me!
 
-<p align="center">
 - 🌱 I’m currently learning a lot of things
-<br>
 - 🔭 I’m currently working on my technical skills
-<br>
 - 👯 2021 Goals: Contribute more to Open Source projects
-<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a> 
-<br>
 - 😄 Pronouns: He/Him 
-<br>
 - ⚡ Fun fact: Technophile
-</p>
+
+
 <table align="center">
+ <h2>Connect Me!</h2>
 <tr>
   <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></code></td>
   <td align="center"><code><img href="https://twitter.com/@Utkarshmishra56" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></code></td>
