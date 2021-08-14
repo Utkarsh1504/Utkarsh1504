@@ -169,6 +169,10 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Utkarsh1504"/>
+
+
+
  
 
 
