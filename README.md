@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning a lot of things
 - 🔭 I’m currently working on my technical skills
 - 👯 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a> 
+- 📫 How to reach me: <a href="https://www.twitter.com/umishra1504/" title="reach">Twitter</a> 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Technophile
 
