@@ -18,25 +18,6 @@
 - ⚡ Fun fact: Technophile
 
 
-<table align="center">
- <h2>Connect with Me!</h2>
-<tr>
-  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></code></td>
-  <td align="center"><code><img href="https://twitter.com/@Utkarshmishra56" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></code></td>
-  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'></code></td>
-  <td align="center"><code><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></code></td>
-   </tr>
-  <tr>
-  <td align="center"><code><a href="https://www.linkedin.com/in/umishra-1504/" title="reach">Linkedin</a></code></td>
-  <td align="center"><code><a href="https://twitter.com/@umishra1504" title="reach">Twitter</a></code></td>
-  <td align="center"><code><a href="https://codepen.io/utkarsh15" title="reach">Codepen</a></code> <code></td>
-  <td align="center"><code><a href="https://stackoverflow.com/users/15176508" title="reach">StackOverFlow</a></code></td>
-  </tr>
-  </table>
-
-  <br>
- 
-
 <h2 align="center">🔥 Languages, Frameworks, Tools & Favorite tech 🔥</h2>
 
   <table align="center">
@@ -166,13 +147,16 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=utkarsh1504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1504&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=utkarsh1504&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 </p>
 
+## Let's connect!
+<p align="left">
+    <a href="https://twitter.com/umishra1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umishra1504" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/umishra-1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-mishra" height="30" width="40" /></a>
+  <a href="https://instagram.com/umishra1504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umishra1504" height="30" width="40" /></a>
+  <a href="https://dev.to/@umishra1504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@umishra1504" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/umishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umishra" height="30" width="40" /></a>
+</p>
 
  
 
